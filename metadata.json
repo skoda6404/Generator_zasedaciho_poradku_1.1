@@ -1,0 +1,7 @@
+{
+  "name": "Generátor zasedacího pořádku 30.4",
+  "description": "Aplikace pro generování zasedacího pořádku ve třídě s využitím AI pro rozmístění žáků podle zadaných podmínek.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
